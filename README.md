@@ -1,5 +1,5 @@
 # Sketchy
-A simple raster graphics creator and editor -- Inspired by Microsoft Paint
+A simple raster graphics creator and editor -- Implemented with JavaFX -- Inspired by Microsoft Paint
 
 Originally created for CS15: Introduction to Object Oriented Programming. Code is omitted in accordance with Brown University and CS15 course anti-plagiarism policies.
 
